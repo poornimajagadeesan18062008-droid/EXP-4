@@ -47,7 +47,4 @@ WAVEFORM:
 ![alt text](46.png)
 RESULT:
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
-![alt text](46.png)
-RESULT:
-Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
 
