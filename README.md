@@ -37,19 +37,22 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
+![alt text](41.png)
 
 Bridge rectifier with filter:
-
+![alt text](42.png)
 TABULAR COLUMN :
 
 Half wave Rectifier with and without filter
+![alt text](43.jpeg)
 
 TABULAR COLUMN :
 
-Full wave Rectifier withand without filter
-
+Full wave Rectifier with and without filter
+![alt text](44.jpeg)
 WAVEFORM:
-
+![alt text](45.png)
+![alt text](46.png)
 
 RESULT:
 
